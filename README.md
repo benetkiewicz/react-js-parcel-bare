@@ -37,3 +37,8 @@ Run with:
 ```
 parcel index.html
 ```
+
+```mermaid
+flowchart LR
+  A --> B
+```
